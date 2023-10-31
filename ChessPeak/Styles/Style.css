@@ -1,0 +1,34 @@
+section {
+    background-image: url('Dark.jpg');
+    background-size: cover;
+}
+
+.headertop {
+    background-color: black;
+}
+
+.player {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+.w {
+    margin-top: 100px;
+}
+
+.l {
+    margin-top: 20px;
+}
+
+.a {
+    margin-top: 60px;
+}
+
+.v {
+    margin-top: 50px;
+}
+
+.l {
+    margin-top: 30px;
+}
